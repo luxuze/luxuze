@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://wakatime.com/share/@monaco/b10ae591-4f51-4a85-90a6-2bf5d429d29f.svg">
+### Languages over Last 30 Days
+
+<img src="https://wakatime.com/share/@monaco/763e3b08-9d6d-410c-ae78-a95b83422907.svg">
+
+### Coding Activity over Last 30 Days
+
+<img src="https://wakatime.com/share/@monaco/e204f4c8-aadd-4a6e-8d40-d06879672c6e.svg">
