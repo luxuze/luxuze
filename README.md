@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about golang/python/typescript.
 - 📫 How to reach me: luxuze@icloud.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: HSI.
+- ⚡ Fun fact: nothing.
 
 ### Languages over Last 30 Days
 
